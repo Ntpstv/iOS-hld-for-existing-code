@@ -1,5 +1,7 @@
 # iOS-hld-for-existing-code
 
+**English** | [ภาษาไทย](README.th.md)
+
 Automated High-Level Design (HLD) generator for iOS projects.  
 Analyzes Swift source code and generates a Figma canvas of screens, their destinations and API calls, and the flow between them — in minutes, not hours.
 
