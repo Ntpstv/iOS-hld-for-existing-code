@@ -2,6 +2,10 @@
 
 [English](README.md) | **ภาษาไทย**
 
+- **iOS:** [github.com/Ntpstv/iOS-hld-for-existing-code](https://github.com/Ntpstv/iOS-hld-for-existing-code)
+- **Android:** [github.com/opsst/android-hld-skill](https://github.com/opsst/android-hld-skill)
+- **สไลด์ (Mobile Native Thailand Meetup #4):** [Mobile Native 2026 #1.pdf](Mobile%20Native%202026%20%231.pdf)
+
 เครื่องมือสร้าง High-Level Design (HLD) อัตโนมัติสำหรับโปรเจกต์ iOS  
 วิเคราะห์ซอร์สโค้ด Swift แล้วสร้าง canvas บน Figma ที่แสดงหน้าจอ ปลายทางของแต่ละหน้าจอ การเรียก API และ flow ระหว่างหน้าจอ — ใช้เวลาเป็นนาที ไม่ใช่เป็นชั่วโมง
 

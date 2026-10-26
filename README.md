@@ -2,6 +2,10 @@
 
 **English** | [ภาษาไทย](README.th.md)
 
+- **iOS:** [github.com/Ntpstv/iOS-hld-for-existing-code](https://github.com/Ntpstv/iOS-hld-for-existing-code)
+- **Android:** [github.com/opsst/android-hld-skill](https://github.com/opsst/android-hld-skill)
+- **Slides (Mobile Native Thailand Meetup #4):** [Mobile Native 2026 #1.pdf](Mobile%20Native%202026%20%231.pdf)
+
 Automated High-Level Design (HLD) generator for iOS projects.  
 Analyzes Swift source code and generates a Figma canvas of screens, their destinations and API calls, and the flow between them — in minutes, not hours.
 
